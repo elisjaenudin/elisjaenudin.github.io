@@ -1,15 +1,17 @@
 {
-  "Koki": [
+  "Gallon": [
     {
 	  "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 	  "admob_inters_dua": "ca-app-pub-3940256099942544/8691691433",
 	  "admob_openAd": "ca-app-pub-3940256099942544/9257395921",
-      "inter_first": 40000,
-      "inter_repeat": 360000,
+      "inter_first": 30000,
+      "inter_repeat": 10000,
 	  "unity_inter": "Interstitial_Android",
-      "unity_games": "4668729",
-      "first_unity_ads": 460000,
-      "repeat_unity_ads": 60000000
+      "unity_games": "xxxxxxx",
+      "first_unity_ads": 30000,
+      "repeat_unity_ads": 300000,
+	  "latest_version": "1",
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.voxelcraftpe.onlinegame"
     }
   ]
 }
