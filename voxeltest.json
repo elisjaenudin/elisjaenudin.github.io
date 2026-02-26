@@ -3,15 +3,16 @@
     {
 	  "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 	  "admob_inters_dua": "ca-app-pub-3940256099942544/8691691433",
+	  "admob_inters_tig": "ca-app-pub-3940256099942544/1033173712",
 	  "admob_openAd": "ca-app-pub-3940256099942544/9257395921",
-      "inter_first": 20000,
-      "inter_repeat": 360000,
+      "inter_first": 30000,
+      "inter_repeat": 30000,
 	  "unity_inter": "Interstitial_Android",
       "unity_games": "xxxxxxx",
-      "first_unity_ads": 30000,
-      "repeat_unity_ads": 300000,
+      "first_unity_ads": 40000,
+      "repeat_unity_ads": 360000,
 	  "latest_version": "1",
-	  "play_store_url": "https://play.google.com/store/apps/details?id=com.voxelcraftpe.onlinegame"
+	  "play_store_url": "https://play.google.com/store/apps/details?id=xxxxxx.xxxxxx.xxxxxxx"
     }
   ]
 }
