@@ -6,7 +6,7 @@
 	  "inters_repeat": "ca-app-pub-3940256099942544/1033173712",
     "inters_close_world": "ca-app-pub-3940256099942544/8691691433",
 	  "admob_openAd": "ca-app-pub-3940256099942544/9257395921",
-      "delay_first_launch": 30000,
+      "delay_first_launch": 60000,
       "delay_repeat_menu": 120000,
 	  "unity_inter": "Interstitial_Android",
       "unity_games": "xxxxxxx",
