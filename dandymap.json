@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Dandys Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys1.zip"
+    },
+    {
+      "name": "Dandys Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys2.zip"
+    },
+	{
+      "name": "Dandys Adventure World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys3.zip"
+    }
+  ]
+}
