@@ -1,29 +1,19 @@
 {
   "maps": [
     {
-      "name": "Kawaii Pink House",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview1.jpeg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map1.zip"
+      "name": "Dandys Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys1.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys1.zip"
     },
     {
-      "name": "One Block Survival",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview2.jpeg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map2.zip"
+      "name": "Dandys Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys2.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys2.zip"
     },
 	{
-      "name": "Sky Survival Island",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview3.jpeg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map3.zip"
-    },
-	{
-      "name": "Sky Survival Island",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview4.jpeg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map4.zip"
-    },
-	{
-      "name": "Sky Survival Island",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview5.jpeg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map5.zip"
+      "name": "Dandys Adventure World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys3.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/dandys3.zip"
     }
   ]
 }
