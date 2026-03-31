@@ -1,0 +1,54 @@
+{
+  "maps": [
+    {
+      "name": "Nuansa Indonesia",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nuansaindonesia.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=17NbUS-QzFY90IwABpgZvgrAlqEgO5FBo"
+    },
+	{
+      "name": "Nuansa Jawa",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nuansajawa.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1w3kDsgJ2-d006GnW6N8qsQPqMfS8yuRT"
+    },
+    {
+      "name": "Nuansa Bus ID",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nuansabus.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1Hda9ngRsqAbkvrYi_bagVSOEWlVREMGa"
+    },
+	{
+      "name": "Nuansa Kereta Kota",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nuansakaikota.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1OpCv6_z7xodl_F-lbwxyHAvGJKn8zLaC"
+    },
+	{
+      "name": "Nuansa Kereta KAI",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nuansakotakai.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1eZkPGI_5CbzacG9ftFvdTHBeqI0dwh_T"
+    },
+    {
+      "name": "Nuansa Kereta Desa",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nuansaspoor.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1xvvDPMa9xjPJRXoR88JzRp7EHvyHf_Mz"
+    },
+	{
+      "name": "Horror Pocong",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/horrorpocong.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1_JPtxVkz1vklHx75aUNo4_pAW6qJkCKa"
+    },
+	{
+      "name": "Horror Kuntilanak",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/horrorkunti.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1CKSHp-1R3Nb_JeMPjYlMIoKfiJiM5C-U"
+    },
+    {
+      "name": "Horror Lampor",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/horrorlampor.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1kjdrWrPdP9eO65VNZMJRvhzVc4SiUmD-"
+    },
+	{
+      "name": "Horror Malam Suro",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/horrormalamsuro.jpg",
+      "file": "https://drive.google.com/uc?export=download&id=1DyxF7fANF17Ns1W__Px32lMylXq4xdqi"
+    }
+  ]
+}
