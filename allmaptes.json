@@ -1,0 +1,69 @@
+{
+  "maps": [
+    {
+      "name": "Flying hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.zip"
+    },
+    {
+      "name": "Swing hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.zip"
+    },
+	{
+      "name": "Powerful hero skills",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.zip"
+    },
+	{
+      "name": "Spider in City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider1.zip"
+    },
+    {
+      "name": "Iron in City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider2.zip"
+    },
+	{
+      "name": "Hero Crafting",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider3.zip"
+    },
+	{
+      "name": "Monster Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster1.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
+    },
+    {
+      "name": "Monster Battle",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster2.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster2.zip"
+    },
+	{
+      "name": "Fun Monster",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster3.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster3.zip"
+    },
+	{
+      "name": "Monster Playtime",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster4.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster4.zip"
+    },
+	{
+      "name": "Superhero Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap1.zip"
+    },
+    {
+      "name": "Superhero in City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap2.zip"
+    },
+	{
+      "name": "Superhero Skill Hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap3.zip"
+    }
+  ]
+}
