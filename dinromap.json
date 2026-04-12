@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
+    },
+	{
+      "name": "Dino Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
+    }
+  ]
+}
