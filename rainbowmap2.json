@@ -16,21 +16,6 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.zip"
     },
 	{
-      "name": "Spider Hero in City",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
-    },
-	{
-      "name": "Omnitrix Alien 10",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
-    },
-    {
-      "name": "Squid Survival",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
-    },
-	{
       "name": "One Block",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.zip"
@@ -61,6 +46,16 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
     },
 	{
+      "name": "Kawaii Pink House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.zip"
+    },
+	{
+      "name": "Kawaii Pink Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    },
+	{
       "name": "Dragon World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
@@ -74,6 +69,21 @@
       "name": "Dino World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
+    },
+	{
+      "name": "Spider Hero in City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "Omnitrix Alien 10",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
+    },
+    {
+      "name": "Squid Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
     },
     {
       "name": "The Mimicer Horror",
