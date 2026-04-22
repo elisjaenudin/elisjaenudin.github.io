@@ -1,0 +1,9 @@
+{
+  "maps": [
+    {
+      "name": "Titan Monster",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/titanlot.jpg",
+      "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/titanlot.zip"
+    }
+  ]
+}
