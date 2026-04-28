@@ -1,0 +1,14 @@
+{
+  "maps": [
+	{
+      "name": "Shinobi Naru Konoha",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.zip"
+    },
+	{
+      "name": "Ninja Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/niad.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/niad.zip"
+    }
+  ]
+}

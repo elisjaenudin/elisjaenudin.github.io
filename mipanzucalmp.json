@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "MipanZuzu Piknik Dupan",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipdup.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mipzu.zip"
+    },
+	{
+      "name": "MipanZuzu Escape Pocong",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.zip"
+    },
+	{
+      "name": "Satria BimaX",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/sabim.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/sabim.zip"
+    }
+  ]
+}
