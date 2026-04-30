@@ -4,6 +4,66 @@
       "name": "The Boiled One Horror",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/boled.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/boled.zip"
+    },
+	{
+      "name": "Horror The Mimicer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.zip"
+    },
+	{
+      "name": "Scary Granny Horror",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/gantong.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/gantong.zip"
+    },
+	{
+      "name": "Scary Santa Sackman Horror",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/saman.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/saman.zip"
+    },
+	{
+      "name": "Horror The Silhoutte",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/silhou.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/silhou.zip"
+    },
+	{
+      "name": "Horror Dweller Blackman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/blman.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/blman.zip"
+    },
+	{
+      "name": "Horror The Smileman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smiman.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smiman.zip"
+    },
+	{
+      "name": "PlayTime Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
+    },
+	{
+      "name": "Squid Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
+    },
+	{
+      "name": "Titan Multiverse",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/titanlot.jpg",
+      "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/titanlot.zip"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Spunky Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
+    },
+	{
+      "name": "Dandy's World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.zip"
     }
   ]
 }
