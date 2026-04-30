@@ -1,9 +1,99 @@
 {
   "maps": [
 	{
-      "name": "Dandys Adventure",
+      "name": "Dandy's World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.zip"
+    },
+	{
+      "name": "Dandys Fun Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.zip"
+    },
+	{
+      "name": "Dandys Pink House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.zip"
+    },
+	{
+      "name": "Dandys Pink Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    },
+	{
+      "name": "Dandys Dino World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
+    },
+	{
+      "name": "Dandys Dino Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.zip"
+    },
+	{
+      "name": "Dandys Dragon World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
+    },
+	{
+      "name": "Dandys One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.zip"
+    },
+	{
+      "name": "Lucky Block Race",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.zip"
+    },
+	{
+      "name": "DreamSMP Parkour",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.zip"
+    },
+    {
+      "name": "Dandys Lucky Blocks",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.zip"
+    },
+	{
+      "name": "Dandys Parkour Rooms",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.zip"
+    },
+	{
+      "name": "The Floor is LAVA",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
+    },
+	{
+      "name": "Dandys Squid Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
+    },
+	{
+      "name": "Omnitrix Alien Watch",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/aliom.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
+    },
+	{
+      "name": "Spider Hero Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Spunky Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
+    },
+	{
+      "name": "PlayTime Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
     }
   ]
 }
