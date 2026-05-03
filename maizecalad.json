@@ -1,13 +1,13 @@
 {
   "Gallon": [
     {
-	  "banner_adm": "ca-app-pub-3940256099942544/",
-	  "inters_adm": "ca-app-pub-3940256099942544/",
-      "inters_home": "ca-app-pub-3940256099942544/",
-	  "inters_main": "ca-app-pub-3940256099942544/",
-	  "inters_exit_world": "ca-app-pub-3940256099942544/",
-	  "inters_repeat_main": "ca-app-pub-3940256099942544/",
-	  "admob_openAd": "ca-app-pub-3940256099942544/",
+	  "banner_adm": "ca-app-pub-5100438264160728/2920385418",
+	  "inters_adm": "ca-app-pub-5100438264160728/3106201179",
+      "inters_home": "ca-app-pub-5100438264160728/3106201179",
+	  "inters_main": "ca-app-pub-5100438264160728/3106201179",
+	  "inters_exit_world": "ca-app-pub-5100438264160728/3106201179",
+	  "inters_repeat_main": "ca-app-pub-5100438264160728/3106201179",
+	  "admob_openAd": "ca-app-pub-5100438264160728/9480037836",
       "delay_home": 10000,
 	  "delay_main": 40000,
       "delay_repeat_main": 60000,
@@ -16,7 +16,7 @@
       "first_unity_ads": 40000,
       "repeat_unity_ads": 360000,
 	  "latest_version": "1",
-	  "play_store_url": "https://play.google.com/store/apps/details?id=com.xxxxxxxxxx.xxxxx"
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.kepitingdev.maizencall.fakecallprank"
     }
   ]
 }
