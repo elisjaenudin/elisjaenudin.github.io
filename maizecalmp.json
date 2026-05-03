@@ -1,9 +1,89 @@
 {
   "maps": [
     {
-      "name": "One Block",
+      "name": "Maizen One Block",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/maizon.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.zip"
+    },
+	{
+      "name": "Maizen Dino World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
+    },
+	{
+      "name": "Maizen Dino Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.zip"
+    },
+	{
+      "name": "Maizen Dragon World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
+    },
+	{
+      "name": "Maizen Lucky Block Race",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.zip"
+    },
+	{
+      "name": "Maizen Parkour",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.zip"
+    },
+    {
+      "name": "Maizen Lucky Blocks",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.zip"
+    },
+	{
+      "name": "Maizen Parkour Rooms",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.zip"
+    },
+	{
+      "name": "Maizen LAVA",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
+    },
+	{
+      "name": "Maizen Pink House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.zip"
+    },
+	{
+      "name": "Maizen Pink Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    },
+	{
+      "name": "Maizen Alien Watch",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/aliom.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
+    },
+	{
+      "name": "Maizen Spider Hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "Maizen Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Maizen Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
+    },
+	{
+      "name": "Maizen Play Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
+    },
+	{
+      "name": "Maizen Squid",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
     }
   ]
 }
