@@ -4,6 +4,101 @@
       "name": "MipanZuzu Piknik Dupan",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipdup.jpg",
       "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mipzu.zip"
+    },
+	{
+      "name": "MipanZuzu Escape Pocong",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.zip"
+    },
+	{
+      "name": "Mipan Zuzu Nuansantara",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipdo.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/sabim.zip"
+    },
+	{
+      "name": "Mipan Zuzu Pink House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.zip"
+    },
+	{
+      "name": "Mipan Zuzu Pink Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    },
+	{
+      "name": "Mipan Zuzu Dino World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
+    },
+	{
+      "name": "Mipan Zuzu Dino Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.zip"
+    },
+	{
+      "name": "Mipan Zuzu Dragon World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
+    },
+	{
+      "name": "Mipan Zuzu One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.zip"
+    },
+	{
+      "name": "Mipan Zuzu Lucky Block Race",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.zip"
+    },
+	{
+      "name": "Mipan Zuzu Parkour",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.zip"
+    },
+    {
+      "name": "Mipan Zuzu Lucky Blocks",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.zip"
+    },
+	{
+      "name": "Mipan Zuzu Parkour Rooms",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.zip"
+    },
+	{
+      "name": "Mipan Zuzu LAVA",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
+    },
+	{
+      "name": "Mipan Zuzu Alien Watch",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/aliom.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
+    },
+	{
+      "name": "Mipan Zuzu Spider Hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "Mipan Zuzu Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Mipan Zuzu Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
+    },
+	{
+      "name": "Mipan Zuzu Play Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
+    },
+	{
+      "name": "Mipan Zuzu Squid",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
     }
   ]
 }
