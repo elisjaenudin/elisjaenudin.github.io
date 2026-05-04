@@ -1,9 +1,14 @@
 {
   "maps": [
     {
-      "name": "Omni Wacth Alien",
+      "name": "Omnitrix Alien TNT",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/aliom.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
+    },
+	{
+      "name": "Omnitrix Ben 10",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.zip"
     },
 	{
       "name": "Spider Hero",
@@ -49,6 +54,11 @@
       "name": "Dragon World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
+    },
+	{
+      "name": "Eater Sea Monster",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/eater.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/eater.zip"
     },
 	{
       "name": "One Block",
