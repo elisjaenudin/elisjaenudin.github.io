@@ -1,19 +1,34 @@
 {
   "maps": [
     {
-      "name": "MipanZuzu Piknik Dupan",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipdup.jpg",
-      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mipzu.zip"
+      "name": "Mipan Zuzu Bus Pariwisata",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizubus.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mizubus.zip"
     },
 	{
-      "name": "MipanZuzu Escape Pocong",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.zip"
+      "name": "Mipan Zuzu Kereta KAI",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizupi.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mizupi.zip"
     },
 	{
-      "name": "Mipan Zuzu Nuansantara",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipdo.jpg",
+      "name": "Mipan Zuzu Nuansa Ramadhan",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuram.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuram.zip"
+    },
+	{
+      "name": "Mipan Zuzu Satria BimaX",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizusat.jpg",
       "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/sabim.zip"
+    },
+	{
+      "name": "Mipan Zuzu Ultra ORB",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuman.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuman.zip"
+    },
+	{
+      "name": "Mipan Zuzu Ex-Aid Rider",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizurid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizurid.zip"
     },
 	{
       "name": "Mipan Zuzu Pink House",
