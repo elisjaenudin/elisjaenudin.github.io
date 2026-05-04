@@ -1,19 +1,39 @@
 {
   "maps": [
     {
-      "name": "DuDuDupan Mipan Zuzu",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipzu.jpg",
-      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mipzu.zip"
+      "name": "Mipan Zuzu Nuansa Bus",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizubus.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mizubus.zip"
+    },
+	{
+      "name": "Mipan Zuzu Nuansa Kereta KAI",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizupi.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/mizupi.zip"
+    },
+	{
+      "name": "Mipan Zuzu Nuansa Ramadhan",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuram.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuram.zip"
+    },
+	{
+      "name": "Mipan Zuzu Satria BimaX",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizusat.jpg",
+      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/sabim.zip"
+    },
+	{
+      "name": "Mipan Zuzu Ultra ORB",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuman.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuman.zip"
+    },
+	{
+      "name": "Mipan Zuzu Ex-Aid Rider",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizurid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizurid.zip"
     },
 	{
       "name": "Mipan Zuzu Escape Pocong",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipoc.zip"
-    },
-	{
-      "name": "Mipan Zuzu Satria Bima X",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mipdo.jpg",
-      "file": "https://github.com/elisjaenudin/kurupuk/releases/download/kormipzu/sabim.zip"
     },
 	{
       "name": "Mipan Zuzu Pink House",
