@@ -56,14 +56,24 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
     },
 	{
-      "name": "Omnitrix Alien 10",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
+      "name": "Omnitrix Alien Watch",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.zip"
     },
 	{
-      "name": "Spider Hero in City",
+      "name": "Spider Heroes",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "IronSpider Superheroes",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspidher.zip"
+    },
+	{
+      "name": "Shinobi Konoha",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.zip"
     },
 	{
       "name": "Dandys Adventure",
@@ -89,6 +99,11 @@
       "name": "Italian Brainrot",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "PlayTime Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
     },
 	{
       "name": "Spunky Magic Beats",
