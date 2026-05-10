@@ -56,9 +56,14 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
     },
 	{
-      "name": "Spider Hero",
+      "name": "Spider Heroes",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "IronSpider Superheroes",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspidher.zip"
     },
 	{
       "name": "Italian Brainrot",
