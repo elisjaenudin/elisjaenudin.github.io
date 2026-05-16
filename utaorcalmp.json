@@ -4,6 +4,111 @@
       "name": "Transform Ultra ORB",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/utaor.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mizuman.zip"
+    },
+	{
+      "name": "Transform Ultra Zero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/uzer.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/uzer.zip"
+    },
+	{
+      "name": "Transform Ultra Nexus",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/unex.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/unex.zip"
+    },
+	{
+      "name": "Transform Ultra Ginga",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/uging.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/uging.zip"
+    },
+	{
+      "name": "Transform Ultra Geed",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/uged.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/uged.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
+    },
+	{
+      "name": "Dino Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
+    },
+	{
+      "name": "One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.zip"
+    },
+	{
+      "name": "Lucky Block Race",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.zip"
+    },
+	{
+      "name": "DreamSMP Parkour",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.zip"
+    },
+    {
+      "name": "ONE BLOCK Lucky Blocks",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.zip"
+    },
+	{
+      "name": "Parkour Rooms",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.zip"
+    },
+	{
+      "name": "The Floor is LAVA",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
+    },
+	{
+      "name": "Omnitrix Alien Watch",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.zip"
+    },
+	{
+      "name": "IronSpider Superheroes",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspidher.zip"
+    },
+	{
+      "name": "PlayTime Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
+    },
+    {
+      "name": "Squid Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
+    },
+    {
+      "name": "The Mimicer Horror",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.zip"
+    },
+    {
+      "name": "Titan Toilet",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/titanlot.jpg",
+      "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/titanlot.zip"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Spunky Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
     }
   ]
 }
