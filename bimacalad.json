@@ -1,13 +1,13 @@
 {
   "Gallon": [
     {
-	  "banner_adm": "ca-app-pub-3940256099942544/",
-	  "inters_adm": "ca-app-pub-3940256099942544/",
-      "inters_home": "ca-app-pub-3940256099942544/",
-	  "inters_main": "ca-app-pub-3940256099942544/",
-	  "inters_exit_world": "ca-app-pub-3940256099942544/",
-	  "inters_repeat_main": "ca-app-pub-3940256099942544/",
-	  "admob_openAd": "ca-app-pub-3940256099942544/",
+	  "banner_adm": "ca-app-pub-5100438264160728/5936987451",
+	  "inters_adm": "ca-app-pub-5100438264160728/4623905784",
+      "inters_home": "ca-app-pub-5100438264160728/4623905784",
+	  "inters_main": "ca-app-pub-5100438264160728/4623905784",
+	  "inters_exit_world": "ca-app-pub-5100438264160728/4623905784",
+	  "inters_repeat_main": "ca-app-pub-5100438264160728/4623905784",
+	  "admob_openAd": "ca-app-pub-5100438264160728/4547884164",
       "delay_home": 10000,
 	  "delay_main": 40000,
       "delay_repeat_main": 60000,
@@ -16,7 +16,7 @@
       "first_unity_ads": 40000,
       "repeat_unity_ads": 360000,
 	  "latest_version": "1",
-	  "play_store_url": "https://play.google.com/store/apps/details?id=com.xxxxxxxxxx.xxxxx"
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.bangkongdev.bimax.fakevideocall"
     }
   ]
 }
