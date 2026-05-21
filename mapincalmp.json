@@ -1,19 +1,9 @@
 {
   "maps": [
     {
-      "name": "MailUpin House",
+      "name": "MailUpin Rumah",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mapin.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/mapin.zip"
-    },
-	{
-      "name": "MailUpin Dino World",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
-    },
-	{
-      "name": "MailUpin Dino Adventure",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noadven.zip"
     },
 	{
       "name": "MailUpin Dragon World",
@@ -59,6 +49,26 @@
       "name": "MailUpin Titan Toilet",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/titanlot.jpg",
       "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/titanlot.zip"
+    },
+	{
+      "name": "MailUpin Anime Waifu",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/anwa.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/anwa.zip"
+    },
+	{
+      "name": "MailUpin Demon Slayer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.zip"
+    },
+	{
+      "name": "MailUpin Ninja Konoha",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.zip"
+    },
+	{
+      "name": "MailUpin Ninja Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/niad.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/niad.zip"
     },
 	{
       "name": "MailUpin One Block",
