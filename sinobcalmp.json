@@ -11,6 +11,41 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/niad.zip"
     },
 	{
+      "name": "Anime Waifu",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/anwa.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/anwa.zip"
+    },
+	{
+      "name": "Demon Slayer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.zip"
+    },
+	{
+      "name": "Spider Hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Spunky Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
+    },
+	{
+      "name": "PlayTime Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
+    },
+	{
+      "name": "Squid Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
+    },
+	{
       "name": "Dino World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
@@ -54,36 +89,6 @@
       "name": "The Floor is LAVA",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.jpeg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
-    },
-	{
-      "name": "Spider Heroes",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
-    },
-	{
-      "name": "IronSpider Superheroes",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspid.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspidher.zip"
-    },
-	{
-      "name": "Italian Brainrot",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
-    },
-	{
-      "name": "Spunky Magic Beats",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
-    },
-	{
-      "name": "PlayTime Huggy",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
-    },
-	{
-      "name": "Squid Survival",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
     }
   ]
 }
