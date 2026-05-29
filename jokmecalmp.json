@@ -4,6 +4,121 @@
       "name": "Joker Mimic FNaF",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/jokme.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/jokme.zip"
+    },
+	{
+      "name": "Horror Scary Granny",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/gantong.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/gantong.zip"
+    },
+	{
+      "name": "Horror The Mimicer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.zip"
+    },
+	{
+      "name": "Horror Evil Nun",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/sanun.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/sanun.zip"
+    },
+	{
+      "name": "Horror The Silhoutte",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/silhou.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/silhou.zip"
+    },
+	{
+      "name": "Horror Dweller Blackman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/blman.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/blman.zip"
+    },
+	{
+      "name": "Horror The Smileman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smiman.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smiman.zip"
+    },
+	{
+      "name": "PlayTime Huggy",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/hupla.zip"
+    },
+	{
+      "name": "Squid Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
+    },
+    {
+      "name": "Titan Battle",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/titanlot.jpg",
+      "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/titanlot.zip"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
+    },
+	{
+      "name": "Demon Slayer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.zip"
+    },
+	{
+      "name": "Ninja Konoha",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.zip"
+    },
+	{
+      "name": "Spider Hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/labalubu.zip"
+    },
+	{
+      "name": "Superheroes",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/irspidher.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nowod.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/nagrok.zip"
+    },
+	{
+      "name": "One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.zip"
+    },
+	{
+      "name": "Block Race",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.zip"
+    },
+	{
+      "name": "Dream Parkour",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.zip"
+    },
+    {
+      "name": "Lucky Blocks",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.zip"
+    },
+	{
+      "name": "Parkour Rooms",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.zip"
+    },
+	{
+      "name": "The Floor is LAVA",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
     }
   ]
 }
