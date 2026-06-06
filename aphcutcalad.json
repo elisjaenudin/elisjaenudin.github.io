@@ -1,15 +1,15 @@
 {
   "Gallon": [
     {
-	  "banner_adm": "ca-app-pub-5100438264160728/8754722482",
+	  "banner_adm": "ca-app-pub-5100438264160728/",
 	  "inters_adm": "ca-app-pub-5100438264160728/1782120024",
       "inters_home": "ca-app-pub-5100438264160728/1782120024",
 	  "inters_main": "ca-app-pub-5100438264160728/1782120024",
 	  "inters_exit_world": "ca-app-pub-5100438264160728/1782120024",
 	  "inters_repeat_main": "ca-app-pub-5100438264160728/1782120024",
 	  "admob_openAd": "ca-app-pub-5100438264160728/6128559146",
-      "delay_home": 10000,
-	  "delay_main": 40000,
+      "delay_home": 60000,
+	  "delay_main": 60000,
       "delay_repeat_main": 60000,
 	  "unity_inter": "Interstitial_Android",
       "unity_games": "xxxxxxx",
